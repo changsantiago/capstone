@@ -7,3 +7,13 @@ NCBI RefSeq assembly and annotation for WBcel235 found at this [site](https://ww
 
 phyloP scores (BigWig):\
 UCSC Genome Browser basewise conservation scores (phyloP) of 134 nematode genomes with C. elegans for WBcel235 found at this [site](https://hgdownload.soe.ucsc.edu/goldenPath/ce11/phyloP135way/). Download [here](https://hgdownload.soe.ucsc.edu/goldenPath/ce11/phyloP135way/ce11.phyloP135way.bw).
+
+## Code:
+script.py: extracting protein-coding mRNA strands with a 5' UTR from source files
+script2.py: constructing data frame with position and strand for each phyloP score
+script3.py: identifying and removing polycistronic genes
+script4.py: identifying and recording count and indices of type A, B, C uORFs
+script5.py: extracting cDNA sequence, distance from CDS, and Kozak sequence for uORFs
+script6.py: calculating nucleotide frequency by position based on CDS and calculating Kozak similarity scores for uORFs
+
+## Data:
