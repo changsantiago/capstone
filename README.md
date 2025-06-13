@@ -14,7 +14,7 @@ script2.py: constructing data frame with position and strand for each phyloP sco
 script3.py: identifying and removing polycistronic genes\
 script4.py: identifying and recording count and indices of type A, B, C uORFs\
 script5.py: extracting cDNA sequence, distance from CDS, and Kozak sequence for uORFs\
-script6.py: calculating nucleotide frequency by position based on CDS and calculating Kozak similarity scores for uORFs\
+script6.py: calculating nucleotide frequency by position based on CDS and calculating Kozak similarity scores for uORFs
 
 ## Data:
 uORFs.tsv: type A uORFs of non-polycistronic protein-coding genes with a 5' UTR and minimum four preceding nucleotides
