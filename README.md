@@ -17,6 +17,4 @@ script5.py: extracting cDNA sequence, distance from CDS, and Kozak sequence for 
 script6.py: calculating nucleotide frequency by position based on CDS and calculating Kozak similarity scores for uORFs\
 
 ## Data:
-nonpolycistronic.tsv: non-polycistronic protein-coding genes with a 5' UTR\
-uORFs.tsv: type A uORFs\
-closefaruORFs.tsv: close and far type A uORFs
+uORFs.tsv: type A uORFs of non-polycistronic protein-coding genes with a 5' UTR and minimum four preceding nucleotides
