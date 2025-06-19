@@ -1,5 +1,5 @@
 # Computational and Systems Biology Capstone Research
-Undergraduate capstone research in computational and systems biology, hosted by the Junction of Statistics and Biology Lab at UCLA.
+Undergraduate capstone research in computational and systems biology, hosted by the Junction of Statistics and Biology Lab at UCLA. Project explored the use of distance between upstream open reading frames (uORFs) and coding DNA sequences (CDS) as an indicator for uORF repression on gene translation.
 
 ## Source files:
 Genome sequences (FASTA) and annotation features (GTF):\
